@@ -1,0 +1,60 @@
+
+
+/* forma i tipke */
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h4 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input[type="date"] {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+}
+
+.export-button {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+button[type="submit"] {
+    padding: 10px 20px;
+    margin-top: 50px;
+    border-radius: 5px;
+    border: none;
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;   
+}
+
+
+/* tablica */
+table {
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
